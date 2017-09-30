@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alumni</string>
+    <string name="invite_friends">invite friends</string>
+    <string name="custom_invite">custom invite</>
+    <string name="invite_dialog_title">You got an invitation</string>
+    <string name="deep_link_default">Deep link not set</string>
+    <string name="invitation_id_default">invitation id not set</string>
+    <string name="google_play_services_error">error</string>
+    <string name="invitation_title">send appinvite quick start invitation </string>
+    <stringstring name="invitation_message">message</stringstring>
+
+</resources>

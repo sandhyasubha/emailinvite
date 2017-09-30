@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "616526278281",
+    "firebase_url": "https://alumni-9b166.firebaseio.com",
+    "project_id": "alumni-9b166",
+    "storage_bucket": "alumni-9b166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616526278281:android:933dba86c12f69f0",
+        "android_client_info": {
+          "package_name": "alumni.cit.edu.in.alumni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616526278281-rlk4rpq83chulft5v1emrcpd2ioormtb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alumni.cit.edu.in.alumni",
+            "certificate_hash": "607e9a6c024c44678b927e98e36b788df19134c1"
+          }
+        },
+        {
+          "client_id": "616526278281-etkrtj5cr3n75vq9bidb81u8ui8uo8it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9E2TWTR322Y04eVzDpuJ0gBhibQlDhOs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616526278281-etkrtj5cr3n75vq9bidb81u8ui8uo8it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
